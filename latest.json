@@ -1,0 +1,19 @@
+{
+  "version": "0.11",
+  "released": "2026-11-26",
+  "notes": {
+    "he": [
+      "תיקון קריטי: האפליקציה נטענת כעת במלואה במכשיר (תוקן באג מסך ריק).",
+      "לוגו רשמי חדש, וניווט: קטגוריות ← תתי-נושאים ← רשימת מסמכים ← תצוגת קריאה.",
+      "חיפוש חופשי בכל שלב, כולל חיפוש בתוך המסמך."
+    ]
+  },
+  "history": [
+    { "version": "0.11", "released": "2026-11-26", "notes": ["תיקון מסך ריק במכשיר", "לוגו רשמי", "ניווט ותצוגת קריאה חדשים"] }
+  ],
+  "downloads": {
+    "ios": "https://github.com/bennymat93/ohmni/releases/download/v0.11/Ohmni-v0.11-unsigned.ipa",
+    "windows": "",
+    "page": "https://github.com/bennymat93/ohmni/releases/tag/v0.11"
+  }
+}
