@@ -64,5 +64,7 @@
     "ios": "https://github.com/bennymat93/ohmni/releases/download/v0.12/Ohmni-v0.12-unsigned.ipa",
     "windows": "",
     "page": "https://github.com/bennymat93/ohmni/releases/tag/v0.12"
-  }
+  },
+  "nextEstimated": "2026-11-26T23:18:44Z",
+  "nextEstimateBasis": "לפי חציון המרווח בין הגרסאות האחרונות (7 מרווחים); יש עבודה בתור"
 }
