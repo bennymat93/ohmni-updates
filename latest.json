@@ -3,7 +3,7 @@
   "platforms": {
     "ios": "0.17",
     "windows": "0.19",
-    "web": "0.30"
+    "web": "0.31"
   },
   "released": "2026-11-27",
   "notes": {
