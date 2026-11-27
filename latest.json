@@ -1,5 +1,10 @@
 {
   "version": "0.17",
+  "platforms": {
+    "ios": "0.17",
+    "windows": "0.19",
+    "web": "0.19"
+  },
   "released": "2026-11-27",
   "notes": {
     "he": [
@@ -10,6 +15,22 @@
     ]
   },
   "history": [
+    {
+      "version": "0.19",
+      "released": "2026-11-27",
+      "notes": [
+        "אפליקציה מתעדכנת-מעצמה (PWA): אחרי טעינה ראשונה עובדת גם לא-מקוון, ומציעה \"עדכן עכשיו\" כשמתפרסמת גרסה חדשה.",
+        "נוספו מסמכי מקור חדשים לספרייה (סך הכול 35), כולל מדריך המערכת Siemens STEP 7 Professional V12 (~10,000 עמ'), S7-200 SMART, Omron, והגנות ורליי."
+      ]
+    },
+    {
+      "version": "0.18",
+      "released": "2026-11-27",
+      "notes": [
+        "נשמרת הקפדה על מקורות רשמיים: הוסר מסמך מקור אחד שהתגלה כעותק מאתר הורדות (סימן-מים) ולא מהמנפיק הרשמי.",
+        "נוספו מסמכי מקור ותתי-נושאים חדשים לספרייה: OMRON, רשתות תעשייתיות (Industrial Ethernet), הנדסת בקרה, אלקטרוניקת הספק והגנות."
+      ]
+    },
     {
       "version": "0.17",
       "released": "2026-11-27",
@@ -80,27 +101,13 @@
       "notes": [
         "שולב הלוגו הרשמי (אומגה כחול-סגול) ב-web ובאייקון iOS. (הערה: גרסאות iOS עד 0.10 היו שבורות — ראו v0.11.)"
       ]
-    },
-    {
-      "version": "0.9",
-      "released": "2026-11-26",
-      "notes": [
-        "מבנה ניווט חדש: קטגוריות → תתי-נושאים → רשימת מסמכים עם תיאורים → תצוגת קריאה (TOC, חיפוש-בתוך-מסמך, מעבר מסמכים, PDF). חיפוש גלובלי + Gemini."
-      ]
-    },
-    {
-      "version": "0.6",
-      "released": "2026-11-26",
-      "notes": [
-        "תוכן יצרנים מהמדריכים: Schneider Control Expert, Siemens S7-1200/1500, FUXA; רגולציה ישראלית (חוק החשמל + תקנות), Mitsubishi MELSEC, פרוטוקולי BMS (BACnet/KNX) — ממקורות רשמיים."
-      ]
     }
   ],
   "downloads": {
     "ios": "https://github.com/bennymat93/ohmni/releases/download/v0.17/Ohmni-v0.17-unsigned.ipa",
-    "windows": "",
-    "page": "https://github.com/bennymat93/ohmni/releases/tag/v0.17"
+    "windows": "https://github.com/bennymat93/ohmni/releases/download/v0.19/OHMNI-Setup-0.19.0.exe",
+    "page": "https://github.com/bennymat93/ohmni/releases"
   },
-  "nextEstimated": "2026-11-27T04:58:39Z",
-  "nextEstimateBasis": "לפי חציון המרווח בין הגרסאות האחרונות (7 מרווחים); יש עבודה בתור"
+  "nextEstimated": "2026-11-27T12:57:04Z",
+  "nextEstimateBasis": "לפי חציון המרווח בין הגרסאות האחרונות (7 מרווחים), מוארך כי אין כרגע עבודה בתור"
 }
